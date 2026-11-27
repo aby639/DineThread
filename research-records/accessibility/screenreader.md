@@ -3,9 +3,14 @@
 NVDA 2026.3.1 portable, Chrome on Windows; desktop keyboard layout. Downloaded
 from NV Access, with a valid NV Access Limited Authenticode signature. Installer
 SHA-256: `6f80a5b0ca720a7d0d314b5be212f37388bbe81a1107ac3298c1821a1cd3f052`.
-Native keyboard/pointer checks were AI-assisted. Synthetic fixtures were prepared
-with Playwright; the recorded speech comes from NVDA's own IO log. This is a
-screen-reader inspection, not a blind participant usability study.
+The native keyboard and pointer checks in the recorded NVDA sessions used AI
+assistance. Playwright prepared the synthetic fixtures. The speech observations
+below come from NVDA’s own IO log. These sessions were technical inspections
+without study participants.
+
+Bibek Rai’s [personal keyboard check](RESULTS.md) covered the dish dialog. He
+reached the dish with Tab, opened it with Enter, then pressed Escape and checked
+that focus returned to the dish.
 
 First session: `screenreader-1794595153110`. A uses build
 `m83pPGcb6p2ZgPs9s0OoB`; B uses `Tr08L6Iuyz9VH_OifDqm1`.

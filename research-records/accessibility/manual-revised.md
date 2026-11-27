@@ -14,7 +14,9 @@ view is reviewed separately in the evidence; these are viewport tests, not a
 claim that browser zoom or every device has been tested. NVDA speech is evaluated
 separately. DOM live-region presence alone does not prove its announcement.
 
-Evidence: `accessibility-recovery-keyboard-1794595000192`. This is AI-assisted
-keyboard/visual inspection, not a study with participants or a full conformance
-audit. Contrast measurements and automated-only findings are added after this
+Evidence: `accessibility-recovery-keyboard-1794595000192`. The recorded keyboard and visual inspection used AI assistance. In a separate
+[manual check](RESULTS.md), Bibek Rai opened a dish with Enter, closed the dialog
+with Escape and checked that focus returned to the dish. The revised run used
+synthetic menus without participants and covered only the journeys listed above.
+Full WCAG conformance was outside its scope. Contrast measurements and automated-only findings are added after this
 record, so they do not determine these initial observations.
