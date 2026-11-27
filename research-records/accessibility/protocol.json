@@ -13,8 +13,8 @@
     "status": "Place order; preparing and ready updates are exposed as status messages, bill request is announced; reload retains accepted order."
   },
   "manualOrder": "Record the keyboard, focus and element bounds observations before reading the axe reports for that version. Pointer fallback is recorded as a blocked keyboard step, never a keyboard pass.",
-  "recordedInspectionMethod": "The archived protocol covers inspections carried out with AI assistance. The original protocol from each run is retained in evidence/.",
-  "personalKeyboardCheck": "Bibek Rai used Tab to reach the dish, Enter to open its dialog and Escape to close it. He checked that focus returned to the dish. The personal keyboard check is recorded in RESULTS.md.",
+  "recordedInspectionMethod": "The archived inspection notes record AI assistance. For Bibek Rai's personal dish-dialog check, the tool explained which steps to follow. The original protocol from each run is retained in evidence/.",
+  "personalKeyboardCheck": "Bibek Rai performed the keyboard check himself. He used Tab to reach the dish, Enter to open the dialog and Escape to close it. He checked that focus returned to the same dish. See RESULTS.md.",
   "core": "Six journeys at 390 and 1280 CSS pixels in Chromium for A and B: 24 runs.",
   "reflow": "Menu, customisation, cart and status at 320 CSS pixels in A and B: eight checks. This is viewport reflow, not browser zoom.",
   "firefox": "Options, invalid-table and status at 1280 CSS pixels for A and B: six runs, subject to pilot availability.",

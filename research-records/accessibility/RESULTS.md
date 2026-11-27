@@ -1,6 +1,6 @@
 # Customer ordering accessibility: local comparison
 
-The component study was recorded on 13 November 2026 using synthetic menus. Bibek Rai personally tested the dish dialog with the keyboard. He used Tab to reach the dish, Enter to open it and Escape to close it, then checked where focus returned. The table below summarises the archived runs. The axe scans and NVDA speech observations are identified separately.
+The component study was recorded on 13 November 2026 using synthetic menus. Bibek Rai received guidance on the keyboard steps and then tested the dish dialog himself. He used Tab to reach the dish, Enter to open it and Escape to close it, then checked where focus returned. The table below summarises the archived runs. The axe scans and NVDA speech observations are identified separately.
 
 ## Builds and scope
 
