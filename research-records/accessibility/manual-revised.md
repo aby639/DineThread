@@ -1,24 +1,9 @@
-# Revised observations before axe
+# Dish dialog keyboard retest
 
-Production build `Tr08L6Iuyz9VH_OifDqm1`, inspected on 13 November 2026.
-The six 1280-pixel journeys completed with no pointer fallback. Item buttons,
-size/extras, cart quantity, table selection and submission were all reachable.
-The customisation dialog exposes its item title and initially owns focus. Its
-quantity buttons have action/item names; options expose pressed state. The
-cart's no-table alert remains visible and the corrected retry succeeds. Order
-states now appear in a polite, atomic status region, with a separate bill status.
+Bibek Rai checked Whipped Feta & Honey on 28 November 2026. The dish had a visible focus outline at 0:08. He opened the dialog and moved focus to Close, where the ring was visible at 0:16. When the dialog closed, focus returned to the same dish at 0:18. [Recording frames](retest-2026-11-28/keyboard-focus.png)
 
-The desktop customisation screenshot shows the focused dialog boundary, readable
-labels and prices, and visible Close, quantity and Add controls. The 320-pixel
-view is reviewed separately in the evidence; these are viewport tests, not a
-claim that browser zoom or every device has been tested. NVDA speech is evaluated
-separately. DOM live-region presence alone does not prove its announcement.
+## References
 
-Evidence: `accessibility-recovery-keyboard-1794595000192`. The recorded keyboard and visual inspection used AI assistance. In a separate
-[manual check](baseline-and-revised-results.md), Bibek Rai opened a dish with Enter, closed the dialog
-with Escape and checked that focus returned to the dish. The revised run used
-synthetic menus without participants and covered only the journeys listed above.
-Full WCAG conformance was outside its scope. Contrast measurements and automated-only findings are added after this
-record, so they do not determine these initial observations.
+[28 November retest record and original recording hashes](retest-2026-11-28/README.md)
 
-In the [28 November keyboard retest](retest-2026-11-28/keyboard-focus.png), Whipped Feta & Honey had focus at 0:08. The Close button had a visible focus ring at 0:16. At 0:18 the dialog had closed and the focus ring was back on the same dish.
+The [13 November revised-build notes](https://github.com/aby639/DineThread/blob/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility/manual-revised.md) report the earlier keyboard journeys, including which steps used a pointer fallback. Their counts are reported in the [baseline and revised build comparison](baseline-and-revised-results.md).
