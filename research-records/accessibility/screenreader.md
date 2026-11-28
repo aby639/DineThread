@@ -15,5 +15,3 @@ The [Speech Viewer excerpts](retest-2026-11-28/nvda-speech.png) show the validat
 ## References
 
 [28 November retest record and original recording hashes](retest-2026-11-28/README.md)
-
-The [earlier NVDA sessions](https://github.com/aby639/DineThread/blob/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility/screenreader.md) document the baseline and revised builds, the first failed bill announcement and its subsequent retest.

@@ -10,4 +10,4 @@ Bibek Rai checked the dish dialog with the keyboard, followed an order with NVDA
 | Screen reader | Speech Viewer displayed the missing-table alert at 0:20, Preparing at 0:50, Ready at 1:01 and the bill acknowledgement at 1:19. | [Speech Viewer output](retest-2026-11-28/nvda-speech.png) |
 | Browser zoom | At 0:02 Chrome showed 200%. Bibek used the pointer to add Crispy Rosemary Potatoes. The cart displayed three portions at $16.50 at 0:44. | [Zoom setting and dish controls](retest-2026-11-28/browser-zoom.png) |
 
-The [dated test record](retest-2026-11-28/) lists the recording filenames, hashes and limits of the observations. The earlier [baseline and revised build comparison](baseline-and-revised-results.md) contains the study methods, automated scan counts and original keyboard observations cited in the report.
+The [dated test record](retest-2026-11-28/) lists the recording filenames, hashes and limits of the observations. These three recordings show the behaviour of the menu Bibek tested. They do not measure a change between builds.

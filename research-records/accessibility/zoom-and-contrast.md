@@ -7,5 +7,3 @@ The visible Add button and completed purchase support this pointer journey at 20
 ## References
 
 [28 November retest record and original recording hashes](retest-2026-11-28/README.md)
-
-The [earlier native-zoom and contrast measurements](https://github.com/aby639/DineThread/blob/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility/zoom-and-contrast.md) give the viewport sizes, sampled controls, contrast results and build identifiers for the comparative study.
