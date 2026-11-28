@@ -21,6 +21,5 @@
     "inputOnAdd": "pointer",
     "record": "zoom-and-contrast.md"
   },
-  "evidence": "retest-2026-11-28/README.md",
-  "earlierComparativeProtocol": "https://github.com/aby639/DineThread/blob/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility/protocol.json"
+  "evidence": "retest-2026-11-28/README.md"
 }
