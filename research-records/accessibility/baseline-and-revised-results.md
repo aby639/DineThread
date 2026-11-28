@@ -1,6 +1,6 @@
 # Customer ordering accessibility: local comparison
 
-The [archived comparative study](https://github.com/aby639/DineThread/tree/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility) documents the methods and attribution for the earlier runs. Its [evidence manifest](https://github.com/aby639/DineThread/blob/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility/evidence/manifest.json) and [protocol index](evidence/archived-protocols.json) identify the original files and checksums. The five current accessibility notes describe Bibek Rai's 28 November retest.
+The original run protocols document the inspection methods and attribution. The [evidence manifest](https://github.com/aby639/DineThread/blob/7672e9faec3f84893eef63bf15b0b41a8b01baa9/research-records/accessibility/evidence/manifest.json) and [protocol index](evidence/archived-protocols.json) identify the original files and checksums. The five current accessibility notes describe Bibek Rai's 28 November retest.
 
 The component study was recorded on 13 November 2026 using synthetic menus. Bibek Rai received guidance on the keyboard steps and then tested the dish dialog himself. He used Tab to reach the dish, Enter to open it and Escape to close it, then checked where focus returned. The table below summarises the archived runs. The axe scans and NVDA speech observations are identified separately.
 
