@@ -3,7 +3,7 @@
 Observed 13 November 2026 using synthetic fixtures, production build
 `m83pPGcb6p2ZgPs9s0OoB`. The recorded baseline used AI assistance for keyboard and DOM inspections and
 screenshot review. It contains no NVDA or participant observations. Bibek Rai
-also tested the dish dialog himself. His [personal keyboard check](RESULTS.md)
+also tested the dish dialog himself. His [personal keyboard check](baseline-and-revised-results.md)
 describes how he checked focus when closing the dialog.
 
 The two-journey pilot and six-journey keyboard run recorded menu cards that

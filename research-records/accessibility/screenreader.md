@@ -8,7 +8,7 @@ assistance. Playwright prepared the synthetic fixtures. The speech observations
 below come from NVDA’s own IO log. These sessions were technical inspections
 without study participants.
 
-Bibek Rai’s [personal keyboard check](RESULTS.md) covered the dish dialog. He
+Bibek Rai’s [personal keyboard check](baseline-and-revised-results.md) covered the dish dialog. He
 reached the dish with Tab, opened it with Enter, then pressed Escape and checked
 that focus returned to the dish.
 

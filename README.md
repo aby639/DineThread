@@ -3,7 +3,7 @@
 DineThread lets guests order from a restaurant’s QR menu and follow their order. Staff manage dishes, prices and incoming orders from the dashboard.
 
 - [Open the live DineThread website](https://dinethread-group7.vercel.app/)
-- [View the five studies and test results](https://github.com/Talha49/DineThread/tree/cf67404a5663baf844b479f939f4bfc78c45f574/research-records)
+- [View the five studies and test results](research-records/)
 
 ## Run locally
 

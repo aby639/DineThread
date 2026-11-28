@@ -4,7 +4,7 @@ The final local inspection used Chrome on Windows, with native Ctrl+plus zoom,
 not Playwright viewport resizing. The browser's normal content area was 929 x
 917 CSS pixels. At 200% it was 464 x 458, devicePixelRatio was 2 and the browser UI
 reported 200%. Zoom was restored before closing the temporary browser. The recorded zoom and contrast observations used synthetic fixtures and AI
-assistance. Bibek Rai’s [separate manual check](RESULTS.md) concerned focus when
+assistance. Bibek Rai’s [separate manual check](baseline-and-revised-results.md) concerned focus when
 opening and closing the dish dialog.
 
 A retained build `m83pPGcb6p2ZgPs9s0OoB`; final B used
