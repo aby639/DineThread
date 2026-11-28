@@ -43,3 +43,7 @@ Shift+Tab and Enter on Request Bill, it announced: “Order status: Ready. Bill
 requested - your server is on the way.” This resolves the first-run bill defect.
 The action log includes the rendered versions and actual visible status text.
 Both native test sessions were closed, and the portable NVDA process was stopped.
+
+## Speech Viewer retest on 28 November 2026
+
+Bibek tested checkout with a Lemon Tart. At 0:20 Speech Viewer displayed the instruction to select a table. After checkout it displayed Preparing (0:50), Ready (1:01) and Served (1:08). The bill acknowledgement was visible at 1:19 and Paid at 1:35. The [Speech Viewer excerpts](retest-2026-11-28/nvda-speech.png) preserve the announced text. The installed NVDA version for this recording was not captured.

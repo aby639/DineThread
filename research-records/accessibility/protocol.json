@@ -15,6 +15,7 @@
   "manualOrder": "Record the keyboard, focus and element bounds observations before reading the axe reports for that version. Pointer fallback is recorded as a blocked keyboard step, never a keyboard pass.",
   "recordedInspectionMethod": "The archived inspection notes record AI assistance. For Bibek Rai's personal dish-dialog check, the tool explained which steps to follow. The original protocol from each run is retained in evidence/.",
   "personalKeyboardCheck": "Bibek Rai performed the keyboard check himself. He used Tab to reach the dish, Enter to open the dialog and Escape to close it. He checked that focus returned to the same dish. See RESULTS.md.",
+  "followUp20261128": "Bibek Rai repeated the dish-dialog keyboard check, NVDA order announcements and the 200% Chrome zoom journey. See retest-2026-11-28/ for the observations, excerpts and recording timestamps.",
   "core": "Six journeys at 390 and 1280 CSS pixels in Chromium for A and B: 24 runs.",
   "reflow": "Menu, customisation, cart and status at 320 CSS pixels in A and B: eight checks. This is viewport reflow, not browser zoom.",
   "firefox": "Options, invalid-table and status at 1280 CSS pixels for A and B: six runs, subject to pilot availability.",

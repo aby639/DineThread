@@ -2,6 +2,8 @@
 
 The component study was recorded on 13 November 2026 using synthetic menus. Bibek Rai received guidance on the keyboard steps and then tested the dish dialog himself. He used Tab to reach the dish, Enter to open it and Escape to close it, then checked where focus returned. The table below summarises the archived runs. The axe scans and NVDA speech observations are identified separately.
 
+Bibek repeated the keyboard, NVDA and browser-zoom checks on 28 November. The [dated retest and frame excerpts](retest-2026-11-28/) document that run separately from the build comparison below.
+
 ## Builds and scope
 
 A is production build `m83pPGcb6p2ZgPs9s0OoB` (workflow implementation).

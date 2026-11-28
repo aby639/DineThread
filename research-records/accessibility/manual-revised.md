@@ -20,3 +20,5 @@ with Escape and checked that focus returned to the dish. The revised run used
 synthetic menus without participants and covered only the journeys listed above.
 Full WCAG conformance was outside its scope. Contrast measurements and automated-only findings are added after this
 record, so they do not determine these initial observations.
+
+In the [28 November keyboard retest](retest-2026-11-28/keyboard-focus.png), Whipped Feta & Honey had focus at 0:08. The Close button had a visible focus ring at 0:16. At 0:18 the dialog had closed and the focus ring was back on the same dish.

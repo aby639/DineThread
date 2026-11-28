@@ -52,3 +52,7 @@ Available at: https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html
 W3C (no date) *Understanding Success Criterion 1.4.10: Reflow*.
 Available at: https://www.w3.org/WAI/WCAG22/Understanding/reflow.html
 (Accessed: 13 November 2026).
+
+## Browser zoom retest on 28 November 2026
+
+[Chrome showed 200%](retest-2026-11-28/browser-zoom.png) at 0:02. Bibek scrolled through the menu, opened Crispy Rosemary Potatoes and used Add. The cart showed three portions at $16.50 (0:44), and the order-status panel later displayed the bill request (1:14). The pointer is visible over Add. This recording establishes that the control could be used at this zoom. It supplies no keyboard-focus-ring measurement or new contrast ratios.

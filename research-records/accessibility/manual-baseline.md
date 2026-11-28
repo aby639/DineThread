@@ -25,3 +25,5 @@ Raw first runs: `accessibility-baseline-keyboard-1794590264449` (pilot) and
 `accessibility-baseline-keyboard-1794590305450` (six desktop journeys plus four
 320-pixel state journeys). Nine open-item steps in the full run were unreachable
 by Tab. Functional completion after pointer fallback is not a keyboard pass.
+
+The [28 November keyboard recording](retest-2026-11-28/keyboard-focus.png) shows focus returning to Whipped Feta & Honey on the later menu. The blocked steps counted above belong to the baseline build.
